@@ -1,5 +1,9 @@
 # Lern-Periode-10
 
+Reflexion
+--
+Ich habe in der letzten Lernperiode
+
 Grob-Planung
 --
 - Ich möchte in den nächsten Modulen 5.5 schreiben
