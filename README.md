@@ -13,9 +13,9 @@ Grob-Planung
 
 ## 3.5.2025
 
-- [x] 
-- [x] 
-- [x] 
+- [x] die Lernperiode 10 einrichten
+- [ ] neue Projektideen finden in der Programmiersprache Python
 
 
-✍️ Heute habe ich
+
+✍️ Heute habe ich die Lernperiode 10 eingerichtet und eine Reflexion der letzen Lernperiode erstellt. Ich habe auch nach verschiedene Projektideen in der Programmiersprache Python recherchiert aber fand kein gutes Projekt für mich.
