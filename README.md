@@ -2,7 +2,7 @@
 
 Reflexion
 --
-Ich habe in der letzten Lernperiode
+Ich habe in der letzten Lernperiode mein Programmierprojekt "Poker" fertig programmiert. Ich habe meine Zeit besser einteilen können und habe die Lernatelier effektiver eingesetzt. 
 
 Grob-Planung
 --
