@@ -30,6 +30,6 @@ Grob-Planung
 
 ## 16.5.2025
 
-- [ ] Die Homepage verfeinern (Fehler entfernen, User zentriert gestalten und das Desgign verschönern
+- [x] Die Homepage verfeinern (Fehler entfernen, User zentriert gestalten und das Desgign verschönern
 
 ✍️ Heute habe ich
