@@ -41,3 +41,4 @@ Grob-Planung
 - [ ] Pacman bei der Frau Rapisarda erarbeiten.
 - [ ] im M259 die Aufträge und an der LB arbeiten
 - [ ] Responsivität meiner Homepage verbessern
+- [ ] Mich mit verschiedene Praktikumstellen bekannt machen
