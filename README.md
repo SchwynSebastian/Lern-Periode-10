@@ -24,7 +24,7 @@ Grob-Planung
 
 - [x] An der Homepage für die Bewerbung arbeiten, die Grundinfos / Funktionen hinzufügen
 
-✍️ Heute habe ich
+✍️ Heute habe ich an meiner Homepage gearbeitet, ich habe  
 
 
 
@@ -32,4 +32,10 @@ Grob-Planung
 
 - [x] Die Homepage verfeinern (Fehler entfernen, User zentriert gestalten und das Desgign verschönern
 
-✍️ Heute habe ich
+✍️ Heute habe ich meine beinahe fertiggestellt, ich habe die Fehler und Responsiv Fehler behebt. Ich habe die letzten Projekte und Bilder eingefügt und meinen Github und Linkedin übersichtlich verlinkt.
+
+
+## 23.5.2025
+
+- [ ] Pacman bei der Frau Rapisarda erarbeiten.
+- [ ] im M259 die Aufträge und an der LB arbeiten
