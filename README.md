@@ -23,8 +23,9 @@ Grob-Planung
 ## 9.5.2025
 
 - [x] An der Homepage für die Bewerbung arbeiten, die Grundinfos / Funktionen hinzufügen
+- [x] Brainstorming für eine Erweiterung der Website 
 
-✍️ Heute habe ich an meiner Homepage gearbeitet, ich habe  
+✍️ Heute habe ich an meiner Homepage gearbeitet, ich habe die Infos (Inhalt) und Funktionen wie eine Slideshow von Bildern hinzugefügt. Ich habe dazu ein Kontaktformular erstellt und die Website teilweise für andere Geräte optimiert. 
 
 
 
@@ -39,3 +40,4 @@ Grob-Planung
 
 - [ ] Pacman bei der Frau Rapisarda erarbeiten.
 - [ ] im M259 die Aufträge und an der LB arbeiten
+- [ ] Responsivität meiner Homepage verbessern
