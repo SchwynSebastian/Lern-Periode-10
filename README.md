@@ -38,7 +38,18 @@ Grob-Planung
 
 ## 23.5.2025
 
-- [ ] Pacman bei der Frau Rapisarda erarbeiten.
-- [ ] im M259 die Aufträge und an der LB arbeiten
-- [ ] Responsivität meiner Homepage verbessern
-- [ ] Mich mit verschiedene Praktikumstellen bekannt machen
+- [x] Pacman bei der Frau Rapisarda erarbeiten.
+- [x] im M259 die Aufträge und an der LB arbeiten
+- [x] Responsivität meiner Homepage verbessern
+- [x] Mich mit verschiedene Praktikumstellen bekannt machen
+
+✍️ Heute habe ich
+
+## 6.6.2025
+
+- [ ] Im Pacman Spiel Powerups hinzufügen
+- [ ]
+- [ ]
+
+✍️ Heute habe ich
+
