@@ -43,13 +43,14 @@ Grob-Planung
 - [x] Responsivität meiner Homepage verbessern
 - [x] Mich mit verschiedene Praktikumstellen bekannt machen
 
-✍️ Heute habe ich
+✍️ Heute habe ich verschiedene Buggs für das Pacman spiel behebt und habe nachher an der LB weitergearbeitet / dokumentiert. Ich habe danach meine Homepage responsiver mcaht, also sodass es auf dem Handy gut aussieht und mich am Schluss mit ein paar Praktikumstellen bekannt gemacht.
 
 ## 6.6.2025
 
-- [ ] Im Pacman Spiel Powerups hinzufügen
-- [ ]
-- [ ]
+- [x] Im Pacman Spiel Powerups hinzufügen
+- [x] Powerpoint erstellen für das Pacman Projekt
 
-✍️ Heute habe ich
+✍️ Heute habe ich alle die Powerups / Punkte fertig programmiert und das Powerpoint für die LB / Pacman Projekt fast fertig erstellt.
+
+
 
